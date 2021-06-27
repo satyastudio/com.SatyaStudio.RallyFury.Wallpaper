@@ -1,1 +1,1 @@
-# com.SatyaStudio.RallyFury.Wallpaper
+# rallyfurywallpaper
