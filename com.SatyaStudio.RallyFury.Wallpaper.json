@@ -3,8 +3,8 @@
  
 "json_popup_wait" : "Server Ready",
   
-"mode_no_ads" : false,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_no_ads" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
@@ -52,7 +52,7 @@
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
 "unity_id" : 4045251,
-"unity_test" : true,
+"unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
@@ -62,8 +62,8 @@
 "Button_Start" : "Start",
 
 "exit_popup_dialog" : "Help give us a 5 stars rating, so we keep the spirit of providing the latest updates",
-"rate_button" : "Rate Now",
-"later_button" : "Maybe Later",
+"rate_button" : "Rate this app",
+"later_button" : "No Thanks",
 "enable_Share_button" : true,
 "Share_TXT" : "Superb APPS Download Now",
 "more_button" : "Share Now",
