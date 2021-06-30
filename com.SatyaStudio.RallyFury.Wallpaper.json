@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Server Ready",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -57,15 +57,15 @@
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
-"Button_Rating" : "Rate Now",
-"Button_Share" : "Share to Friends",
-"Button_Start" : "Start",
+"Button_Rating" : "RATE US",
+"Button_Share" : "SHARE to FRIENDS",
+"Button_Start" : "START",
 
-"exit_popup_dialog" : "Help give us a 5 stars rating, so we keep the spirit of providing the latest updates",
+"exit_popup_dialog" : "Help us by giving a 5 stars rating, so we keep the spirit of providing the latest updates",
 "rate_button" : "Rate this app",
-"later_button" : "No Thanks",
+"later_button" : "Rate Later",
 "enable_Share_button" : true,
-"Share_TXT" : "Superb APPS Download Now",
+"Share_TXT" : "Superb App Download Now",
 "more_button" : "Share Now",
 "url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "
 
