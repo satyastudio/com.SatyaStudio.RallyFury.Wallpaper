@@ -1,7 +1,7 @@
 {
   "redirect" : {
  
-"json_popup_wait" : "Loading from server",
+"json_popup_wait" : "Loading from server . . .",
   
 "mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
@@ -20,7 +20,7 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 7,
+"inter_count" : 5,
 
 "enable_strap" : true,
 "enable_strap_Splah" : false,
