@@ -20,12 +20,12 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 2,
+"inter_count" : 1,
 
 "enable_strap" : true,
 "enable_strap_Splah" : false,
 
-"ads_on_exit_dialog" : false,
+"ads_on_exit_dialog" : true,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
@@ -36,12 +36,12 @@
 "admob_inter" : "ca-app-pub-4765095539204939/5510165218",
 "admob_native" : "ca-app-pub-4765095539204939/4197083540",
 
-"hpk_alien" : "Car Donate",
-"hpkadmob1" : "Car Insurance",
-"hpkadmob2" : "Used Cars For Sale",
-"hpkadmob3" : "Car Seat Covers",
-"hpkadmob4" : "Solar Panel",
-"hpkadmob5" : "Best Online Shop Cars",
+"hpk_alien" : "",
+"hpkadmob1" : "",
+"hpkadmob2" : "",
+"hpkadmob3" : "",
+"hpkadmob4" : "",
+"hpkadmob5" : "",
 
 "fan_banner" : "YOUR_PLACEMENT_ID",
 "fan_inter" : "YOUR_PLACEMENT_ID",
@@ -61,9 +61,9 @@
 "Button_Share" : "SHARE to FRIENDS",
 "Button_Start" : "START",
 
-"exit_popup_dialog" : "Help us by giving a 5 stars rating, so we keep the spirit of providing the latest updates",
-"rate_button" : "Rate & Review",
-"later_button" : "Back to Home",
+"exit_popup_dialog" : "Help us by giving a 5 stars rating so we keep the spirit of providing the latest updates",
+"rate_button" : "Rate Now",
+"later_button" : "Home",
 "enable_Share_button" : true,
 "Share_TXT" : "Superb App Download Now",
 "more_button" : "Share Now",
